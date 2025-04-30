@@ -4,6 +4,12 @@ A simple and responsive **Password Generator** built using HTML, CSS, and JavaSc
 
 ---
 
+## 🔗 Live Demo
+
+Try it here: [https://your-deployment-url.vercel.app](https://your-deployment-url.vercel.app)
+
+---
+
 ## ✨ Features
 
 - Adjustable password length
@@ -32,5 +38,3 @@ A simple and responsive **Password Generator** built using HTML, CSS, and JavaSc
 - **HTML** – Markup structure
 - **CSS** – Styling and layout
 - **JavaScript** – Logic for password generation and UI interaction
-
----
